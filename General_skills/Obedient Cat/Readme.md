@@ -3,16 +3,13 @@
 Points: 5
 
 ## Category
----
 
 General skills
 
 ## Description
----
 >This file has a flag in plain sight (aka "in-the-clear").
 
 ## Solution
----
 The whole task is about downloading and printing content of the file:
 
 >cat files/flag
